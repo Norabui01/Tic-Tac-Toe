@@ -1,10 +1,5 @@
 # Introduction to my Tic-Tac-Toe
 
-
-<html><h3>This is my very first project since i started learning how to code and also the first project i write with Python.
-I understand my code for this program is definitely not so neat and have messy functions. i will try to improve it in the 
-process of absorbing new knowledge about OOP and new languages.<^-^>!</h3>
-
 My Tic-Tac-Toe is a very simple verson for two players I made with lists. It has all the necessary functionality and is presented quite clearly 
 despite running on console:
 
